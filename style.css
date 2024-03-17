@@ -11,9 +11,9 @@ body{
 
 }
 .card-container{
-  margin: 10% auto;
   width: 425px;
   height: 675px;
+  margin-top: 20px;
 }
 .card{
   display: flex;
